@@ -1,0 +1,20 @@
+.treeview span:hover {
+    cursor: pointer;
+}
+.treeview-folder {
+    list-style-image: url('../images/folder-icon.png');
+}
+.treeview-file {
+    list-style-image: url('../images/file-icon.png');
+}
+
+.readme-content{
+    background-color:slategray;
+    color: aliceblue;
+    max-height: 200px;
+    max-width: 500px;
+    overflow: scroll;
+}
+
+
+
